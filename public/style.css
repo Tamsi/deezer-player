@@ -1,0 +1,25 @@
+.artist_img {
+	width: 200px;
+	height: 200px;
+}
+
+.searchbar {
+  margin: auto;
+  width:50%;
+  padding:0;
+}
+
+.column {
+  margin: auto;
+  width:33%;
+  float: left;
+  padding: 0 15px;
+}
+
+.selected {
+  background-color: #574B90;
+}
+
+.list-group-item {
+  background-color: transparent;
+}
